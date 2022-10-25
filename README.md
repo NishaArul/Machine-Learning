@@ -1,7 +1,13 @@
 # Machine-Learning
-Overview
-Algorithms used
-Regression:
+# OBJECTIVE
+Predict which party a voter will vote for based on a survey conducted on 1525 voters with 9 variables
+# SOLUTION 
+Performed descriptive statistics, EDA, and Feature engineering to build various models such as Linear & Logistic
+Regression, Random Forest, KNN, Naïve Bayes, Ensemble Technique and further concluded on basis of performance
+metrics that the Tuned KNN Model seems to be an optimized model with an accuracy score of 96%
+
+# Algorithms used
+## Regression:
 • Linear Regression
 • Multiple-Linear Regression
 • Logistic Regression
@@ -9,16 +15,16 @@ Regression:
 • Lasso and Ridge Regression (L1 & L2 Regularization)
 • Elastic-Net Regression
 
-Classification:
+## Classification:
 • K-Nearest Neighbours
 • Support Vector Machine
 • Naive Bayes
 • Decision Tree
 
-Clustering:
+## Clustering:
 • K-Means
 
-Ensemble:
+## Ensemble:
 • Random Forest
 • Adaptive Boosting (AdaBoost)
 • Extreme Gradient Boosting (XGBoost)
