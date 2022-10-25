@@ -9,7 +9,9 @@ metrics that the Tuned KNN Model seems to be an optimized model with an accuracy
 # Algorithms used
 ## Regression:
 • Linear Regression
+
 • Multiple-Linear Regression
+
 • Logistic Regression
 • Polynomial Regression
 • Lasso and Ridge Regression (L1 & L2 Regularization)
