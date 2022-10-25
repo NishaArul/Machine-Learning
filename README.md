@@ -1,5 +1,3 @@
-### MACHINE LEARNING
-
 ### OBJECTIVE
 This project is based on 2 case-studies: Vote Prediction and Text Analysis. The first project is to Predict which party a voter will vote for based on a survey conducted on 1525 voters with 9 variables and The second project is based on the analysis of the inaugural U.S.A. Presidential speeches. One has to draw inferences based on the analysis done on these speeches
 
